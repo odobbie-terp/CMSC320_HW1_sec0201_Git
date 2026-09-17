@@ -6,3 +6,7 @@ Answer:Version contol and working on a project from multiple devices
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: finance
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer:merge preseves the exact history whereas rebase rewrites it which can be easier to read but also can lead to problems
